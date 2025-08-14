@@ -44,24 +44,25 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
 
 ### 1. `BNS01.JPG` — JPEG Image
 - **Signature:** `FF D8 FF` (Start) / `FF D9` (End)  
-- **Details:**  
+- **Artefact:**  
   - Congratulatory image featuring **Ali S. Benson**, lead trainer  
   - Cybersecurity-themed visual representing the **Network Traffic Analysis module**  
 
 ### 2. `BNS02.PNG` — PNG Logo
 - **Signature:** `89 50 4E 47 0D 0A 1A 0A` (Start) / `49 45 4E 44 AE 42 60 82` (End)  
-- **Details:**  
+- **Artefact:**  
   - Official **BNS Cyberlab Limited** logo used in documentation  
 
 ### 3. `BNS03.PDF` — Network Traffic Analysis Guide  
-- **Signature:** `25 50 44 46` (Start) / `25 25 45 4F 46` (End)  
+- **Signature:** `25 50 44 46` (Start) / `25 25 45 4F 46` (End)
+- **Artefact**
 - **Key Points:**  
   - Defines **Network Traffic Analysis (NTA)** as the process of capturing, inspecting, and interpreting network data  
   - Highlights NTA’s role in **threat detection**, **incident investigation**, and **compliance**  
 
 ### 4. `BNS04.ZIP` — Supplemental Project Data  
 - **Signature:** `50 4B 03 04`  
-- **Details:**  
+- **Artefact:**  
   - Contains **raw datasets**, sample email files, and additional PCAPs for further analysis  
 
 ---
