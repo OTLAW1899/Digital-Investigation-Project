@@ -64,12 +64,12 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
 
 - **Key Points:**  
   - Defines **Network Traffic Analysis (NTA)** as the process of capturing, inspecting, and interpreting network data  
-  - Highlights NTA’s role in **threat detection**, **incident investigation**, and **compliance**  
+  - Highlights NTA’s role in **threat detection**, and **flier with the wordings inviting people to join BNC internship**.   
 
 ### 4. `BNS04.ZIP` — Supplemental Project Data  
 - **Signature:** `50 4B 03 04`  
 - **Artefact:**  
-  - Contains **raw datasets**, sample email files, and additional PCAPs for further analysis
+  - Contains **a BNS-themed financial report**, sample email files, and additional PCAPs for further analysis
     <img width="634" height="856" alt="image" src="https://github.com/user-attachments/assets/90c4da36-8795-45e8-80fb-cf43d2aecb4a" />
     <img width="900" height="502" alt="image" src="https://github.com/user-attachments/assets/59865d5e-fb7a-4a27-a336-ee5978b4f5af" />
 
