@@ -46,14 +46,14 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
 - **Signature:** `FF D8 FF` (Start) / `FF D9` (End)  
 - **Artefact:**  
   - Congratulatory image featuring **Ali S. Benson**, lead trainer  
-  - Cybersecurity-themed visual representing the **Network Traffic Analysis module**
+  - Cybersecurity-themed visual representing the Network Traffic Analysis module
     ![BNS01](https://github.com/user-attachments/assets/077f282b-c454-49d6-a47f-f8809ba0b76a)
 
 
 ### 2. `BNS02.PNG` — PNG Logo
 - **Signature:** `89 50 4E 47 0D 0A 1A 0A` (Start) / `49 45 4E 44 AE 42 60 82` (End)  
 - **Artefact:**  
-  - Official **BNS Cyberlab Limited** logo used in documentation
+  - Official BNS Cyberlab Limited logo used in documentation
     ![BNS02](https://github.com/user-attachments/assets/69b17c08-161a-439e-b044-0e5c08f9a476)
 
 
@@ -63,13 +63,13 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
   <img width="1437" height="792" alt="image" src="https://github.com/user-attachments/assets/152baaa8-39d8-4673-8974-950c5d824b20" />
 
 - **Key Points:**  
-  - Defines **Network Traffic Analysis (NTA)** as the process of capturing, inspecting, and interpreting network data  
+  - Defines Network Traffic Analysis (NTA) as the process of capturing, inspecting, and interpreting network data  
   - Highlights NTA’s role in **threat detection**.   
 
 ### 4. `BNS04.ZIP` — Supplemental Project Data  
 - **Signature:** `50 4B 03 04`  
 - **Artefact:**  
-  - Contains **a BNS-themed financial report**, and **flier with the wordings inviting people to join BNC internship**
+  - Contains a BNS-themed financial report, and a flier with the wordings inviting people to join BNC internship.
     <img width="634" height="856" alt="image" src="https://github.com/user-attachments/assets/90c4da36-8795-45e8-80fb-cf43d2aecb4a" />
     <img width="900" height="502" alt="image" src="https://github.com/user-attachments/assets/59865d5e-fb7a-4a27-a336-ee5978b4f5af" />
 
