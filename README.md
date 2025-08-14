@@ -92,14 +92,14 @@ This project strengthened my expertise in:
 - **Binary File Reconstruction** — Hex editors, magic numbers  
 - **Threat Intelligence Integration** — VirusTotal, malware detection  
 
-It reinforced the importance of **automation** in cybersecurity — integrating email parsing, malware scanning, and network monitoring into a single **defense workflow**.
+It reinforced the importance of automation in cybersecurity — integrating email parsing, malware scanning, and network monitoring into a single defense workflow.
 
 ---
 
 ## Future Improvements  
-- Automate file extraction from PCAPs using **Python scripts**  
-- Expand **signature detection** for advanced file types  
-- Integrate **machine learning** for anomaly detection in network traffic  
+- Automate file extraction from PCAPs using Python scripts. 
+- Expand signature detection for advanced file types.  
+- Integrate machine learning for anomaly detection in network traffic.  
 
 ---
 
