@@ -1,4 +1,4 @@
-# BNS Cyberlab Digital Investigation Project
+# Digital Investigation Project
 
 **Prepared by:** Olatunji Lawal  
 **Date:** 13th August, 2025  
