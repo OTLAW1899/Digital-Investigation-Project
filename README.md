@@ -1,11 +1,11 @@
-# 🛡️ BNS Cyberlab Digital Investigation Project
+# BNS Cyberlab Digital Investigation Project
 
 **Prepared by:** Olatunji Lawal  
 **Date:** 13th August, 2025  
 
 ---
 
-## 📌 Introduction  
+## Introduction  
 This project documents a **cybersecurity automation and network traffic analysis** task conducted during my internship at **BNS Cyberlab Limited**.  
 The investigation involved:  
 - Analyzing **packet captures (PCAP)**  
@@ -16,7 +16,7 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
 
 ---
 
-## 🛠️ Tools & Methodology  
+## Tools & Methodology  
 
 ### Tools Used
 | Tool           | Purpose |
@@ -40,7 +40,7 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
 
 ---
 
-## 🔍 Key Findings  
+## Key Findings  
 
 ### 1. `BNS01.JPG` — JPEG Image
 - **Signature:** `FF D8 FF` (Start) / `FF D9` (End)  
@@ -66,7 +66,7 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
 
 ---
 
-## ⚠️ Challenges & Solutions  
+## Challenges & Solutions  
 | Challenge | Solution |
 |-----------|----------|
 | Extra data in downloaded files | Used hex editing to isolate valid file content |
@@ -75,7 +75,7 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
 
 ---
 
-## ✅ Conclusion & Skills Gained  
+## Conclusion & Skills Gained  
 This project strengthened my expertise in:  
 - **Network Forensics** — Wireshark, PCAP analysis  
 - **Binary File Reconstruction** — Hex editors, magic numbers  
@@ -85,11 +85,11 @@ It reinforced the importance of **automation** in cybersecurity — integrating 
 
 ---
 
-## 🚀 Future Improvements  
+## Future Improvements  
 - Automate file extraction from PCAPs using **Python scripts**  
 - Expand **signature detection** for advanced file types  
 - Integrate **machine learning** for anomaly detection in network traffic  
 
 ---
 
-### 📂 Repository Structure
+
