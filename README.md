@@ -70,6 +70,7 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
 - **Signature:** `50 4B 03 04`  
 - **Artefact:**  
   - Contains a BNS-themed financial report, and a flier with the wordings inviting people to join BNC internship.
+    
     <img width="634" height="856" alt="image" src="https://github.com/user-attachments/assets/90c4da36-8795-45e8-80fb-cf43d2aecb4a" />
     <img width="900" height="502" alt="image" src="https://github.com/user-attachments/assets/59865d5e-fb7a-4a27-a336-ee5978b4f5af" />
 
