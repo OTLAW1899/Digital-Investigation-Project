@@ -31,6 +31,8 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
    - Extracted and reconstructed files from packet payloads
 
    <img width="931" height="244" alt="WS Captured act" src="https://github.com/user-attachments/assets/8e60a5a9-f3d6-4f33-b0bc-0b164a82ffab" />
+   <img width="947" height="412" alt="TCP stream" src="https://github.com/user-attachments/assets/9240268f-75a7-41c1-9ea4-5a82d2166d85" />
+
 
 
 2. **File Forensics**  
