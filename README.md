@@ -28,7 +28,9 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
 ### Methodology  
 1. **Packet Capture Analysis**  
    - Filtered HTTP traffic to locate file downloads  
-   - Extracted and reconstructed files from packet payloads  
+   - Extracted and reconstructed files from packet payloads
+
+   https://github.com/OTLAW1899/Digital-Investigation-Project/blob/main/WS%20Captured%20act..png
 
 2. **File Forensics**  
    - Verified file types using **magic numbers (hex signatures)**  
