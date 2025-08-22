@@ -30,7 +30,8 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
    - Filtered HTTP traffic to locate file downloads  
    - Extracted and reconstructed files from packet payloads
 
-   https://github.com/OTLAW1899/Digital-Investigation-Project/blob/main/WS%20Captured%20act..png
+   <img width="931" height="244" alt="WS Captured act" src="https://github.com/user-attachments/assets/8e60a5a9-f3d6-4f33-b0bc-0b164a82ffab" />
+
 
 2. **File Forensics**  
    - Verified file types using **magic numbers (hex signatures)**  
