@@ -37,7 +37,10 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
 
 2. **File Forensics**  
    - Verified file types using **magic numbers (hex signatures)**  
-   - Inspected metadata and structure for anomalies  
+   - Inspected metadata and structure for anomalies
+
+     <img width="952" height="488" alt="Raw DATA" src="https://github.com/user-attachments/assets/8e355b39-a008-4c58-a983-e4907c46c2c9" />
+
 
 3. **Threat Detection**  
    - Scanned artifacts with **VirusTotal**  
