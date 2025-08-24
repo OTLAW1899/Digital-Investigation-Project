@@ -1,10 +1,5 @@
 # Digital Investigation Project
 
-**Prepared by:** Olatunji Lawal  
-**Date:** 13th August, 2025  
-
----
-
 ## Introduction  
 This project documents a **cybersecurity automation and network traffic analysis** task conducted during my internship at **BNS Cyberlab Limited**.  
 The investigation involved:  
@@ -112,4 +107,5 @@ It reinforced the importance of automation in cybersecurity — integrating emai
 
 ---
 
-
+**Prepared by:** Olatunji Lawal  
+**Date:** 13th August, 2025  
