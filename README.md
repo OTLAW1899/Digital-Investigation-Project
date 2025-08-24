@@ -1,6 +1,6 @@
-# Digital Investigation Project
+## Digital Investigation Project
 
-## Introduction  
+### Introduction  
 This project documents a **cybersecurity automation and network traffic analysis** task conducted during my internship at **BNS Cyberlab Limited**.  
 The investigation involved:  
 - Analyzing **packet captures (PCAP)**  
@@ -11,16 +11,16 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
 
 ---
 
-## Tools & Methodology  
+### Tools & Methodology  
 
-### Tools Used
+#### Tools Used
 | Tool           | Purpose |
 |----------------|---------|
 | **Wireshark**  | Network traffic capture, protocol analysis, HTTP traffic filtering |
 | **HxD Hex Editor** | Binary file analysis, header inspection, file reconstruction |
 | **VirusTotal** | Malware scanning, threat intelligence verification |
 
-### Methodology  
+#### Methodology  
 1. **Packet Capture Analysis**  
    - Filtered HTTP traffic to locate file downloads  
    - Extracted and reconstructed files from packet payloads
@@ -43,9 +43,9 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
 
 ---
 
-## Key Findings  
+### Key Findings  
 
-### 1. `BNS01.JPG` — JPEG Image
+#### 1. `BNS01.JPG` — JPEG Image
 - **Signature:** `FF D8 FF` (Start) / `FF D9` (End)  
 - **Artefact:**  
   - Congratulatory image featuring **Ali S. Benson**, lead trainer  
@@ -53,14 +53,14 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
     ![BNS01](https://github.com/user-attachments/assets/077f282b-c454-49d6-a47f-f8809ba0b76a)
 
 
-### 2. `BNS02.PNG` — PNG Logo
+#### 2. `BNS02.PNG` — PNG Logo
 - **Signature:** `89 50 4E 47 0D 0A 1A 0A` (Start) / `49 45 4E 44 AE 42 60 82` (End)  
 - **Artefact:**  
   - Official BNS Cyberlab Limited logo used in documentation
     ![BNS02](https://github.com/user-attachments/assets/69b17c08-161a-439e-b044-0e5c08f9a476)
 
 
-### 3. `BNS03.PDF` — Network Traffic Analysis Guide  
+#### 3. `BNS03.PDF` — Network Traffic Analysis Guide  
 - **Signature:** `25 50 44 46` (Start) / `25 25 45 4F 46` (End)
 - **Artefact**
   <img width="1437" height="792" alt="image" src="https://github.com/user-attachments/assets/152baaa8-39d8-4673-8974-950c5d824b20" />
@@ -69,7 +69,7 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
   - Defines Network Traffic Analysis (NTA) as the process of capturing, inspecting, and interpreting network data  
   - Highlights NTA’s role in **threat detection**.   
 
-### 4. `BNS04.ZIP` — Supplemental Project Data  
+#### 4. `BNS04.ZIP` — Supplemental Project Data  
 - **Signature:** `50 4B 03 04`  
 - **Artefact:**  
   - Contains a BNS-themed financial report, and a flier with the wordings inviting people to join BNC internship.
@@ -81,7 +81,7 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
 
 ---
 
-## Challenges & Solutions  
+### Challenges & Solutions  
 | Challenge | Solution |
 |-----------|----------|
 | Extra data in downloaded files | Used hex editing to isolate valid file content |
@@ -90,7 +90,7 @@ It provided hands-on experience in **digital forensics**, **protocol analysis**,
 
 ---
 
-## Conclusion & Skills Gained  
+### Conclusion & Skills Gained  
 This project strengthened my expertise in:  
 - **Network Forensics** — Wireshark, PCAP analysis  
 - **Binary File Reconstruction** — Hex editors, magic numbers  
@@ -100,7 +100,7 @@ It reinforced the importance of automation in cybersecurity — integrating emai
 
 ---
 
-## Future Improvements  
+### Future Improvements  
 - Automate file extraction from PCAPs using Python scripts. 
 - Expand signature detection for advanced file types.  
 - Integrate machine learning for anomaly detection in network traffic.  
